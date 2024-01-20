@@ -1,7 +1,46 @@
-# Vue 3 + Vite
+# Tutorial: Deploying a Vite + Vue.js App with Custom Nested Paths Using Docker and NGINX
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
+This repository contains the complete source code for the Vue.js deployment tutorial. The tutorial guides you through creating a Vue.js application using the Vite framework, setting up routing with Vue Router, and deploying the application using Docker and NGINX.
 
-## Recommended IDE Setup
+## Prerequisites
+- Node.js and npm installed on your system.
+- Docker installed for containerization.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Installation and Setup
+1. Clone the repository:
+   ```bash
+   git clone [repository-url]
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd [project-directory]
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+## Running the Application
+1. To run the application locally:
+   ```bash
+   npm run dev
+   ```
+2. To build the application for production:
+   ```bash
+   npm run build
+   ```
+
+## Docker and NGINX
+The tutorial includes steps to containerize the application using Docker and deploy it using NGINX. Refer to the tutorial for detailed instructions.
+
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your updates.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+
+
+## Contact
+For any queries or suggestions, feel free to contact [Your Name or GitHub Profile Link].
+
