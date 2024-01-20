@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the complete source code for the Vue.js deployment tutorial. The tutorial guides you through creating a Vue.js application using the Vite framework, setting up routing with Vue Router, and deploying the application using Docker and NGINX.
 
+https://medium.com/@agalliani/tutorial-deploying-a-vite-vue-js-app-with-custom-nested-paths-using-docker-and-nginx-1fa8cf4b1d93
+
 ## Prerequisites
 - Node.js and npm installed on your system.
 - Docker installed for containerization.
