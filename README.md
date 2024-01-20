@@ -42,5 +42,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ## Contact
-For any queries or suggestions, feel free to contact [Your Name or GitHub Profile Link].
+For any queries or suggestions, feel free to contact me.
 
