@@ -3,6 +3,8 @@
 ## Overview
 This repository contains the complete source code for the Vue.js deployment tutorial. The tutorial guides you through creating a Vue.js application using the Vite framework, setting up routing with Vue Router, and deploying the application using Docker and NGINX.
 
+https://medium.com/@agalliani/tutorial-deploying-a-vite-vue-js-app-with-custom-nested-paths-using-docker-and-nginx-1fa8cf4b1d93
+
 ## Prerequisites
 - Node.js and npm installed on your system.
 - Docker installed for containerization.
@@ -10,11 +12,11 @@ This repository contains the complete source code for the Vue.js deployment tuto
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/agalliani/nested-app
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project-directory]
+   cd nested-app
    ```
 3. Install dependencies:
    ```bash
@@ -42,5 +44,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ## Contact
-For any queries or suggestions, feel free to contact [Your Name or GitHub Profile Link].
+For any queries or suggestions, feel free to contact me.
 
