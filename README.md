@@ -10,11 +10,11 @@ This repository contains the complete source code for the Vue.js deployment tuto
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/agalliani/nested-app
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project-directory]
+   cd nested-app
    ```
 3. Install dependencies:
    ```bash
